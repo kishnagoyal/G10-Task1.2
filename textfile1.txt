@@ -4,4 +4,3 @@ third line
 fourth line
 fifth line
 conflicted line
-anything new
